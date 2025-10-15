@@ -36,7 +36,7 @@
 ## Screenshots
 
 <p align="center">
-  <video src="screenshots/demo.webm" width="600" alt="YouTube Downloader demo video">
+  <video src="https://github.com/user-attachments/assets/773b696d-83cf-487f-a27b-ce8c3b392423" width="600" alt="YouTube Downloader demo video">
 </p>
 
 <p align="center">
