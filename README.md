@@ -7,7 +7,7 @@
 <h3 align="center">Download YouTube videos in 4K, convert to MP3, and save YouTube Shorts</h3>
 
 <p align="center">
-  <a href="https://tubly.download/firefox/tubly_downloader_v1.5.0.xpi">
+  <a href="https://tubly.download/firefox/tubly_downloader_v1.5.1.xpi">
     <img src="https://img.shields.io/badge/Add%20to-Firefox-FF7139?style=for-the-badge&logo=firefox" alt="Add to Firefox">
   </a>
 </p>
@@ -49,7 +49,7 @@
 
 ## Installation
 
-1. **Download the .xpi file**: [Download YouTube Downloader for Firefox](https://tubly.download/firefox/tubly_downloader_v1.5.0.xpi)
+1. **Download the .xpi file**: [Download YouTube Downloader for Firefox](https://tubly.download/firefox/tubly_downloader_v1.5.1.xpi)
 2. **Click to install**: Firefox will automatically prompt you to install the add-on
 3. **Confirm installation**: Click "Add" when Firefox asks for permission
 4. **Start downloading**: Navigate to any YouTube video and start downloading!
